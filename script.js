@@ -1,4 +1,4 @@
-const API_KEY = "55cde0b191764a2fa88162155232002";
+const API_KEY = "YOUR_API_KEY";
 const form = document.getElementById("location-form");
 const city = document.getElementById("city")
 const country = document.getElementById("country")
